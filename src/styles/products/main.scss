@@ -24,7 +24,7 @@
   &__button {
     align-self: center;
     margin: 168px 0 80px;
-
+    @include linkButton;
     @include primaryButtons;
   }
 }

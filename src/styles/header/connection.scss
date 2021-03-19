@@ -21,7 +21,7 @@
 
   &__button {
     margin-right: 20px;
-
+    @include linkButton;
     @include secondaryButtons;
   }
   
