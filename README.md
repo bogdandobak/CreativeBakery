@@ -8,10 +8,26 @@ Implement responsive landing page according to [Figma design](https://www.figma.
 * Notebook 1280px
 * Tablet 1024px
 * Mobile (> 320px)
-
+You can check this page here:
 * [DEMO](https://bogdandobak.github.io/CreativeBakery/index.html)
 
 ## Description
 
 Made this landing page using BEM methodology and made it persponsive by using SCSS(SASS) preprocessor. Also implement here burger menu using SCSS.
 
+## Local deployment
+
+### Dependencies
+
+* Node v12.16.3 and higher
+* NPM v6.14.4 and higher
+
+### Installing
+
+* Fork and clone this repository
+* Run `npm install` in your terminal
+* Run `npm start` to start local server
+
+## Troubleshooting
+
+Any advise for common problems or issues. For any contributing or problem solving you could find me [here](https://www.linkedin.com/in/bohdan-dobak-6a31a7198/)
